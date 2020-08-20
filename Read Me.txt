@@ -1,0 +1,14 @@
+following are the details store according to program use.
+
+ac_name		|ac_num	|ac_pswrd|ac_amount
+				 
+Haris xyz	|1122	|1111	 |500
+Mohammad abc	|1133	|2222	 |1000
+Mohammad Ali	|1144	|3333	 |1500
+Mohammad Ahmed	|1155	|4444	 |2000
+Hassan qwe	|1166	|5555	 |2500
+Waqar mry	|1177	|6666	 |3000
+xyz Sheikh	|1188	|7777	 |3500
+Masood stu	|1199	|8888	 |4000
+Basharat opq	|2211	|9999	 |4500
+Mohammad lmn	|2221	|1234	 |5000
